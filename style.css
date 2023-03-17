@@ -152,13 +152,13 @@ label{
 .portfolio-cont{
     display: flex;
     justify-content: center;
-    margin: 100px;
+    margin: 100px 20px;
     align-items: center;
     /* width: 100%; */
 }
 
 .card{
-    width: 900px;
+    width: 1200px;
     /* height: 700px; */
 }
 
