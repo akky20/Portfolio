@@ -213,9 +213,10 @@ label{
     padding: auto 30px;
 }
 #abt-card-body{
-    background-color: black;
-    margin: 20px 0px;
-    padding: 5px 25px;
+    background-color: rgb(20, 20, 20);
+    margin: 20px 15px;
+    border-radius: 10px;
+    padding: 10px 20px;
 }
 .achiev-cont{
     display: flex;
